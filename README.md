@@ -38,6 +38,6 @@ File runamerica shows how to compile and run these code.
 Files covering-disconnected.f90, covering-heart.f90,
 covering-rings.f90, covering-soap.f90, covering-star.f90, and
 covering-twosq.f90 correspond, respectively, to the covering of the
-regions ``disconnected'', ``heart'', the 3 different ``ring regions'',
-``soap'', ``peaked star'', and ``two squares''. Instructions to
+regions "disconnected", "heart", the 3 different "ring regions",
+"soap", "peaked star", and "two squares". Instructions to
 compile and run them can be find in file runall.

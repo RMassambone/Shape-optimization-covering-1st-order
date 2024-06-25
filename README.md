@@ -1,6 +1,9 @@
 # Shape-optimization-covering-1st-order
 Source codes related to the paper:  E. G. Birgin, A. Laurain, R. Massambone, and A. G. Santana, A shape  optimization approach to the problem of covering a two-dimensional  region with minimum-radius identical balls, SIAM Journal on Scientific  Computing 43, pp. A2047-A2078, 2021
 
+ALGENCAN
+========
+
 Algencan 3.1.1 is required to run the code. Algencan 3.1.1 can be
 downloaded in: https://www.ime.usp.br/~egbirgin/tango/. The
 distribution includes instructions to generate the library
@@ -12,6 +15,9 @@ variable ALGENCAN pointing to the folder were Algencan was installed,
 like, for example,
 
 export ALGENCAN=$HOME/algencan-3.1.1
+
+HOW TO RUN
+==========
 
 Files covering-a-single-ball.f90 and covering-two-tangent-balls.f90
 correspond to two simple degenerate problems.
